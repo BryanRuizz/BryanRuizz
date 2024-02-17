@@ -9,7 +9,7 @@
 
 - ❤️ I love learn new things, always active
   
-- ❄️ I’m currently Working as software engineer saas(React,c#), laravel(vue, php), nodejs, sql server, Bi, docker, jenkins, selenium QA.
+- ❄️ I’m currently working as software engineer with  saas(React,c#), laravel(vue, php), nodejs, sql server, Bi, docker, jenkins, selenium QA.
 
 - 🗿 I’m currently learning Python & BI
 
