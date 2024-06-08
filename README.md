@@ -11,7 +11,7 @@
   
 - ❄️ I’m currently working as software engineer with  saas(React,c#), laravel(vue, php), nodejs, sql server, Bi, docker, jenkins, selenium QA.
 
-- 🗿 I’m currently learning Python & BI
+- 🗿 I’m currently learning BI
 
 - 💬 I like Reactjs/ts vue,js
 
