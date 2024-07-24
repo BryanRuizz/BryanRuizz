@@ -17,7 +17,7 @@
 
 - 📫 How to reach me bryanruiz2468@gmail.com
 
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/bryan-ruiz-b992b71b9/overlay/1635545029846/single-media-viewer/?profileId=ACoAADLEmOUBFLE8VL6cxyYCSvTorZTPINITSbU" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://bryanruiz.vercel.app/" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 😸 </h3>
 
